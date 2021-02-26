@@ -1,0 +1,24 @@
+.branco{
+  color: white
+  
+}
+.rosa{
+  background-color: pink;
+}
+.verde{
+  background-color: black;
+  color: greenyellow;
+  
+  
+}
+.special{
+  background-color: yellow;
+  font-weight: bold;
+  text-align: justify
+}
+
+.shout {
+  color: red;
+  background-color:aqua;
+  font-family: cursive
+}
